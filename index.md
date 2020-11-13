@@ -6,7 +6,7 @@
 <br><br>
 This project started out as a simple console program. The goal of the project was to learn Java and object oriented programming. I struggled with object oriented programming, specifically with creating and calling other classes. The first sample shows the final project which I recieved a C grade on. I couldn't accept that knowing how important object oriented programming was. After that semester I redeveloped the project to include classes that supported object oriented programming! I really wanted to learn to make graphical user interfaces within Java. I began taking the zoo program to that level as you can see in the examples below. Finally, I had a class the involved working with databases so I included a Sqllite database to store usernames, passwords and other information that may be needed!
 
-<a href="https://jameslouis89.github.io/JamesLouis89/">Zoo Monitoring System</a></p>
+<a href="https://github.com/JamesLouis89/Zoo-Monitoring-System.git">Zoo Monitoring System Repository</a>
 
 
 ---
