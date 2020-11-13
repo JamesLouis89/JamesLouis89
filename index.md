@@ -8,6 +8,8 @@ This project started out as a simple console program. The goal of the project wa
 
 <a href="https://github.com/JamesLouis89/Zoo-Monitoring-System.git">Zoo Monitoring System Repository</a>
 
+[![Demo Zoo Monitoring System](https://j.gifs.com/r8OPp2.gif)](https://youtu.be/yJ9J54cSVVY)
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
