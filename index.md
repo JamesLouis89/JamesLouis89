@@ -28,7 +28,7 @@ Current Bugs:
   - Sometimes the progress bar works other times it doesn't display
   - When the user loads the weight log from the database it sometimes crashes the app
 <br><br>
-"/images/android.jpg?raw=true" 
+<img src="images/android.jpg?raw=true"/>
 <br><br>
 <br><br>
 
