@@ -23,7 +23,6 @@ Future Developments:
   - Fix issues with reading from database
   - Change layout and constraints to make objects line up better
   - Fix some syntax errors
- <br><br>
 Current Bugs:
   - Sometimes the progress bar works other times it doesn't display
   - When the user loads the weight log from the database it sometimes crashes the app
