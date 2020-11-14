@@ -26,7 +26,7 @@ Future Developments:
 Current Bugs:
   - Sometimes the progress bar works other times it doesn't display
   - When the user loads the weight log from the database it sometimes crashes the app
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Project 3 Title](http://example.com/)
