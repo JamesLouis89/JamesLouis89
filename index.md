@@ -28,6 +28,7 @@ Current Bugs:
   - When the user loads the weight log from the database it sometimes crashes the app
 <br><br>
 <img src="images/android.jpg?raw=true"/>
+<img src="images/android2.jpg?raw=trie"/>
 <br><br>
 <br><br>
 
