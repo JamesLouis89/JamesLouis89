@@ -15,6 +15,19 @@ Future Development:
 
 
 ---
+
+
+## Raspberry and Python Temperature Monitoring Systems
+
+One my class involved learning about IoT and embedded systems. We utilized the Grove Pi HAT along with various sesnors. Throughtout the semester we worked on various projects coding in Python. My final project was a temperature and humidity monitoring system. The temperature and humidity were displayed on the LCD screen. I coded the program to record every 30 minutes. The data was saved to a JSON file as well. My program contained conditional statements that would light one of three LED lights depending on certain temperature and humidity ranges. The device also used a light sensor since I only wanted the temperature and humidity to be recorded during daylight hours. After all the data was recorded I used CanvasJs to create a html chart to display the data that was recorded into the json file. 
+<img src="images/blueLed.jpg?raw=true"/>
+<img src="images/greenled.jpg?raw=true"/>
+<img src="images/lcd screen.jpg?raw=true"/>
+<img src="images/canvasjs.jpg?raw=true"/>
+
+
+---
+
 ## Mobile App Development Android: Weight Loss App(Still in Development)
 I took a class in App Development. The requirements for our final project was to make an app that utilized several screens and a database. I began creating the weight loss app. A user can create an account. Once they create an account they can enter a goal weight. Each day the user tracks their current weight which is saved to a database. On the main page there is a progress bar that shows the progress they have made to their goal weight. After submitting the project I recieved a "B". I wasn't completely satisfied with the app so I began redeveloping it. Please check back for updates!
 <br><br>
@@ -41,19 +54,3 @@ Current Bugs:
 
 ---
 
-## Raspberry and Python Temperature Monitoring Systems
-
-One my class involved learning about IoT and embedded systems. We utilized the Grove Pi HAT along with various sesnors. Throughtout the semester we worked on various projects coding in Python. My final project was a temperature and humidity monitoring system. The temperature and humidity were displayed on the LCD screen. I coded the program to record every 30 minutes. The data was saved to a JSON file as well. My program contained conditional statements that would light one of three LED lights depending on certain temperature and humidity ranges. The device also used a light sensor since I only wanted the temperature and humidity to be recorded during daylight hours. After all the data was recorded I used CanvasJs to create a html chart to display the data that was recorded into the json file. 
-<img src="images/blueLed.jpg?raw=true"/>
-<img src="images/greenled.jpg?raw=true"/>
-<img src="images/lcd screen.jpg?raw=true"/>
-<img src="images/canvasjs.jpg?raw=true"/>
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
-,
