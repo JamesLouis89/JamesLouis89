@@ -41,7 +41,8 @@ Current Bugs:
 
 ---
 
-### Raspberry and Python Temperature Monitoring Systems
+## Raspberry and Python Temperature Monitoring Systems
+
 One my class involved learning about IoT and embedded systems. We utilized the Grove Pi HAT along with various sesnors. Throughtout the semester we worked on various projects coding in Python. My final project was a temperature and humidity monitoring system. The temperature and humidity were displayed on the LCD screen. I coded the program to record every 30 minutes. The data was saved to a JSON file as well. My program contained conditional statements that would light one of three LED lights depending on certain temperature and humidity ranges. The device also used a light sensor since I only wanted the temperature and humidity to be recorded during daylight hours. After all the data was recorded I used CanvasJs to create a html chart to display the data that was recorded into the json file. 
 <img src="images/blueLed.jpg?raw=true"/>
 <img src="images/greenled.jpg?raw=true"/>
